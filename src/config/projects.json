@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "title" : "project 1",
+            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem error nihil omnis cumque iste. Nisi omnis voluptates qui sequi vitae autem vel vero doloremque soluta illum a id maxime, nesciunt laudantium consequuntur tempore itaque. Delectus blanditiis facere quisquam veritatis at!",
+            "image" : "images/finger.svg"
+        },
+        {
+            "title" : "project 2",
+            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem error nihil omnis cumque iste. Nisi omnis voluptates qui sequi vitae autem vel vero doloremque soluta illum a id maxime, nesciunt laudantium consequuntur tempore itaque. Delectus blanditiis facere quisquam veritatis at!",
+            "image" : "images/finger.svg"
+        }
+    ]
+}
